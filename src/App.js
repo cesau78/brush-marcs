@@ -1,6 +1,6 @@
 import "./App.css";
-import "./LoginButton";
-import LoginButton from "./LoginButton";
+import "./components/smart/LoginButton";
+import LoginButton from "./components/smart/LoginButton";
 
 function App() {
   return (
